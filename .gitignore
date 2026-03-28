@@ -1,0 +1,23 @@
+.DS_Store
+Thumbs.db
+
+# dependencies
+**/node_modules/
+
+# env
+.env
+.env.*
+
+# Expo / React Native
+mobile/.expo/
+mobile/.expo-shared/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# build outputs
+**/dist/
+**/build/
